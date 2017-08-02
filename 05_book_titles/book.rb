@@ -14,7 +14,3 @@ class Book
   end #title
 
 end #book
-
-
-@book = Book.new
-@book.title = "inferno"
