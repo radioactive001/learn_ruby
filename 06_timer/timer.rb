@@ -1,5 +1,5 @@
 class Timer
-     attr_accessor :seconds, :time_string
+     attr_accessor :seconds, 
 
 
     def initialize
